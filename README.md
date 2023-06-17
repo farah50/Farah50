@@ -7,10 +7,10 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
   
 
-- 🏢 I'm a Student in faculty of Computers and artificial intelligence
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with c++, tkinter, java
-
+- 🏢 I'm a Student in the faculty of Computers and Artificial intelligence
+- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about my experience with c++, Tkinter, SQL
+  
 ### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
