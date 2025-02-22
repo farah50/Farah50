@@ -8,6 +8,7 @@
   
 
 - I'm a Student in the faculty of Computers and Artificial intelligence
+- My current focus is on applying AI in medical diagnostics to help doctors detect diseases more accurately and efficiently.
 - I constantly learn and explore new technologies to improve my skills.
   
 ### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
