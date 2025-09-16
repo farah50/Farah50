@@ -20,3 +20,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
