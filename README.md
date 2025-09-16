@@ -23,4 +23,3 @@
 ### ⚡GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=farah50&theme=radical)
