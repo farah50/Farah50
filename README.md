@@ -23,5 +23,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Farah Mohamed&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
 
