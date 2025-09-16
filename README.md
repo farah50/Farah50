@@ -1,6 +1,3 @@
-
-
-
 <h2>  Welcome to Farah Mohamed's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230">
 
@@ -10,9 +7,9 @@
 - I'm a Student in the faculty of Computers and Artificial intelligence
 - My current focus is on applying AI in medical diagnostics to help doctors detect diseases more accurately and efficiently.
 - I constantly learn and explore new technologies to improve my skills.
-  
-### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+---
 
+### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
@@ -20,9 +17,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+---
 
-
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
 
