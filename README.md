@@ -20,15 +20,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=farah50&theme=dracula)](https://git.io/streak-stats)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=farah50&theme=dark)](https://git.io/streak-stats)
 
 
 
