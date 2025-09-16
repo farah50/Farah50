@@ -20,10 +20,21 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ---
 
-## 📊 GitHub Stats
+##  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=farah50&show_icons=true&theme=radical&locale=en)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farah50&layout=compact&theme=radical)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=farah50&theme=radical)
+
+</div>
 
 
