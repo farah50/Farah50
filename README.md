@@ -22,6 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farah50&theme=dark)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
 
 
