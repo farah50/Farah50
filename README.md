@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=09d9ff&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+ML+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=d68c00&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+ML+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
   </a>
 </p>
 <!-- <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> -->
