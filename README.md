@@ -1,23 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/tJnh44Rh/Gemini-Generated-Image-271m5a271m5a271m2.png" alt="Van Gogh Computer Screen Banner" width="800"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=0B305F&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hi+there,+I+am+Farah;Aspiring+AI+Engineer+%7C+Web+Developer;I+am+interested+in+Scientific+Research+%26+Automation;I+am+interested+in+Applying+AI+in+the+Medical+Field;Open+to+contribute+to+Computer+Vision+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=0088a1&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+ML+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=009ebb&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+ML+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Farah.github.profile&style=for-the-badge&color=0B305F" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="40" height="40" />
-</p>
-
-<p align="center" style="margin-top: 20px; position: relative; z-index: 2;">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Farah.github.profile&style=for-the-badge&color=FFD700" alt="Visitor Count"/>
 </p>
 <!-- <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> -->
 
