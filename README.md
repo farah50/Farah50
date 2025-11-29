@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=2000&pause=1000&color=F75C7ECenter=true&multiline=true&width=500&height=100&lines=Aspring+AI+Engeneer%7C+Web+Developer;Interested+in+Automation%26Applying+AI+in+Medical+Field"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there,+I+am+Farah;Aspiring+AI+Engineer+%7C+Web+Developer;Interested+in+Automation+%26+AI+in+Medicine" alt="Typing SVG" />
 </a>
 <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230">
 
