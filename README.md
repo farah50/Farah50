@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=0088a1&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+AI+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=009ebb&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there,+I+am+Farah;Aspiring+ML+Engineer+%7C+Web+Developer;I+am+interested+in+Automation+%26+Scientific+Research;%26+Applying+AI+in+the+Medical+Field" alt="Typing SVG" />
   </a>
 </p>
-<img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> -->
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   
 
 - My current focus is on applying AI in medical diagnostics to help doctors detect diseases more accurately and efficiently.
-- I constantly learn and explore new technologies to improve my skills.
+- Open to contribute to Computer Vision projects
 ---
 
 ### 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
