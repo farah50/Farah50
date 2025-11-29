@@ -12,16 +12,16 @@
 - Open to contribute to Computer Vision projects
 ---
 
-## 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
-#### ⚙️ Languages & Core Technologies
+#### --> Languages & Core Technologies
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
     <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" />
 </p>
 
-#### 🤖 AI/ML Frameworks & Libraries
+#### --> AI/ML Frameworks & Libraries
 <p align="left">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
 </p>
 
-#### 🔧 Development Tools
+#### --> Development Tools
 <p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
@@ -39,7 +39,11 @@
 </p>
 
 ---
-
-### ⚡GitHub Streak
+#### ⚡GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farah50)](https://git.io/streak-stats)
+
+#### 🔥 Contribution Activity
+<p align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farah50&bg_color=1F222E&color=d68c00&line=d68c00&point=FFFFFF&area=true&hide_border=true" alt="Farah's Contribution Graph" />
+</p>
