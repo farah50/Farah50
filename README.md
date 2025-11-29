@@ -1,4 +1,6 @@
-<h2>  Welcome to Farah Mohamed's profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=2000&pause=1000&color=F75C7ECenter=true&multiline=true&width=500&height=100&lines=Aspring+AI+Engeneer%7C+Web+Developer;Interested+in+Automation%26Applying+AI+in+Medical+Field"alt="Typing SVG" />
+</a>
 <img align='right' src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
